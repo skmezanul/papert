@@ -1,0 +1,10 @@
+#summary Planned improvements and features for papert.
+#labels todo
+
+Arithmetic, prefix and infix.
+
+Adjustable drawing speed - perhaps with acceleration.
+
+Tail recursion and flow control - [stop] , ifelse etc.
+
+More drawing primatives, line colour line width.
