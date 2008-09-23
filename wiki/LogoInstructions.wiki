@@ -1,4 +1,5 @@
 #summary Supported Logo Commands
+#labels Featured
 
 = Logo Commands =
 {{{
