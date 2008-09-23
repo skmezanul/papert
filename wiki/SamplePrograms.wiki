@@ -1,4 +1,5 @@
 #summary Sample Logo Programs
+#labels Featured
 
 =  Koch Snowflake =
 {{{
